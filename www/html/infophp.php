@@ -7,7 +7,7 @@
     <title>PHP</title>
 </head>
 <body>
-    <h1>This is PHP INFO</h1>
+    <center><h1>This is PHP INFO</h1></center>
     <?php phpinfo(INFO_ALL); ?>
 </body>
 </html>
