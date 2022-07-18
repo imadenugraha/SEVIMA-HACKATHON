@@ -10,4 +10,5 @@ This is my Hackathon projects for Sevima Scholarship 2022. In this projects, I'm
 
 # How To Run This App
 > **On Terminal in Linux use docker-compose up -d command**
+
 The docker will automatically pull the image that required for this app.
