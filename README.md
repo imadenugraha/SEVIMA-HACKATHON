@@ -1,4 +1,4 @@
-# SEVIMA-HACKATHON
+# SEVIMA HACKATHON
 This is my Hackathon projects for Sevima Scholarship 2022. In this projects, I'm using several images. There are :
 > **nginx:1.23.0-alpine**
 
@@ -9,6 +9,8 @@ This is my Hackathon projects for Sevima Scholarship 2022. In this projects, I'm
 > **Docker Compose v1.29.2**
 
 # How To Run This App
-> **On Terminal in Linux use docker-compose up -d command**
+> **On Terminal in Linux use this command:**
+
+```bash docker-compose up -d```
 
 The docker will automatically pull the image that required for this app.
